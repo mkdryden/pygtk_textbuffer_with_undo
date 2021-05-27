@@ -1,1 +1,1 @@
-from undobuffer import UndoableBuffer
+from .undobuffer import UndoableBuffer
